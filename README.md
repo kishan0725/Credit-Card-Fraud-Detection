@@ -52,3 +52,5 @@ Since recursive partitioning can be represented by a tree structure, the number 
 This path length, averaged over a forest of such random trees, is a measure of normality and our decision function.
 
 Random partitioning produces noticeably shorter paths for anomalies. Hence, when a forest of random trees collectively produce shorter path lengths for particular samples, they are highly likely to be anomalies.
+
+    Link for the dataset---> https://www.kaggle.com/samkirkiles/credit-card-fraud/data
